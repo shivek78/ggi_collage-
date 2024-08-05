@@ -1,0 +1,33 @@
+*{
+      padding: 0%;
+      margin: 0%;
+      text-transform: capitalize;
+      color: black;
+
+}
+.container{
+      background-color: aquamarine;
+      height: 50px;
+     
+}
+#branding{
+      padding-left: 30px;
+      height: 20px;
+      width: 40px;
+
+     
+
+
+
+}
+ul {
+display: flex;
+justify-content: space-between;
+
+}
+a{
+      font
+
+}
+
+
